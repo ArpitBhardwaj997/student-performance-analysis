@@ -25,4 +25,52 @@ This project performs an end-to-end data analysis on student performance using S
 
 ---
 
+
+---
+
+## 📈 Key Features
+- Data extraction from SQL database
+- Data cleaning and preprocessing
+- Feature engineering (Average calculation)
+- Data visualization using bar charts
+- Exporting results to CSV file
+
+---
+
+## 🔍 Key Insights
+- Identified top-performing student (Riya)
+- Compared subject-wise performance
+- Observed that Science & English scores are higher than Math
+- Detected students needing improvement
+
+---
+
+## ▶️ How to Run
+1. Clone the repository: 
+2. Install dependencies:
+3. Run the project:
+
+
+---
+
+## 📊 Output
+- Console output with processed data
+- Bar chart visualization
+- Generated `output.csv` file
+
+---
+
+## 💡 Learning Outcome
+This project helped me understand:
+- End-to-end data analysis workflow
+- SQL and Python integration
+- Data cleaning and transformation
+- Data visualization techniques
+
+---
+
+## 📌 Future Improvements
+- Add more datasets
+- Build interactive dashboard (Power BI)
+- Perform advanced statistical analysis
 ## 📂 Project Structure
